@@ -1,4 +1,4 @@
-<img src="imagens/mascote.png" align="right" width="300">
+<img src="#" align="right" width="300">
 
 # HTML5+CSS3
 
