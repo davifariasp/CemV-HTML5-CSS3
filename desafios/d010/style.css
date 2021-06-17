@@ -163,7 +163,7 @@ footer{
     content:' 🔗'; 
 }
 
-strong{
+main>strong{
     color: var(--cor4);
 }
 
