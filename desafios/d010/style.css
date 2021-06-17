@@ -160,7 +160,7 @@ footer{
 }
 
 .links_externos::after{
-    content:' (link)'; /* &#x1F517; */ 
+    content:' 🔗'; 
 }
 
 strong{
