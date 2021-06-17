@@ -1,6 +1,4 @@
-/*<img src="#" align="right" width="300">*/
-
-# HTML5+CSS3
+# HTML5+CSS3 - Curso em Vídeo
 
  Repositório criado para armazenar o material criado durante as aulas do curso de HTML5+CSS3 do Curso em Vídeo.
 
