@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial;
+    background-color: #1D1D1D;
+    text-align: center;
+}
+
+h1{
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
